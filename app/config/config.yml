@@ -45,7 +45,7 @@ doctrine:
         auto_mapping: true
 
 sp_bower:
-    bin: /home/steve/.node/bin/bower
+    bin: /home/steve/.node/bin/
 
 # Swiftmailer Configuration
 swiftmailer:
