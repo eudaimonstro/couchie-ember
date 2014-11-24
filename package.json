@@ -1,5 +1,6 @@
 {
   "name": "symfony_ember_js",
+  "version": "0.10.33",
   "private": true,
   "devDependencies": {
     "karma-qunit": "*",
