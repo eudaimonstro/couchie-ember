@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "29937b544b345b053878b13ec5169c41",
+    "hash": "59ba0a2527f24a093682a25488c60ccb",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1631,16 +1631,16 @@
         },
         {
             "name": "sp/bower-bundle",
-            "version": "dev-master",
+            "version": "v0.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Spea/SpBowerBundle.git",
-                "reference": "1a83ec1217d922de250a447c112a96305866eae7"
+                "reference": "e492c022755f5b764672f715c7ca3a52c942a2b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Spea/SpBowerBundle/zipball/1a83ec1217d922de250a447c112a96305866eae7",
-                "reference": "1a83ec1217d922de250a447c112a96305866eae7",
+                "url": "https://api.github.com/repos/Spea/SpBowerBundle/zipball/e492c022755f5b764672f715c7ca3a52c942a2b6",
+                "reference": "e492c022755f5b764672f715c7ca3a52c942a2b6",
                 "shasum": ""
             },
             "require": {
@@ -1658,7 +1658,7 @@
             "type": "symfony-bundle",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "0.12-dev"
+                    "dev-master": "0.11-dev"
                 }
             },
             "autoload": {
@@ -1688,7 +1688,7 @@
                 "bower manager",
                 "dependencies"
             ],
-            "time": "2014-07-26 12:48:06"
+            "time": "2014-07-14 08:51:16"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -3228,7 +3228,6 @@
     "stability-flags": {
         "kriswallsmith/assetic": 20,
         "symfony/assetic-bundle": 20,
-        "sp/bower-bundle": 20,
         "phpunit/phpunit": 0,
         "squizlabs/php_codesniffer": 0,
         "liip/functional-test-bundle": 0,
