@@ -7,6 +7,7 @@ assetic:
         emberprecompile: ~
 
 sp_bower:
+    bin: /home/steve/.node/bin/bower
     install_on_warmup: true
     assetic:
         filters:

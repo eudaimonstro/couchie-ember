@@ -44,9 +44,6 @@ doctrine:
         auto_generate_proxy_classes: "%kernel.debug%"
         auto_mapping: true
 
-sp_bower:
-    bin: /home/steve/.node/bin/
-
 # Swiftmailer Configuration
 swiftmailer:
     transport: "%mailer_transport%"
